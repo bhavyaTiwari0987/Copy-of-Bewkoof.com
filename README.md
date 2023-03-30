@@ -1,3 +1,6 @@
+# Hosted Link
+https://bhavyatiwarigithub.github.io/Copy-of-Bewkoof.com/
+
 # Copy-of-Bewkoof.com
 This is a one page copy demo of Bewkoof.com
 
